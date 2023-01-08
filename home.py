@@ -1,5 +1,4 @@
 print("salom")
 
 
-
-print('Assalom alaykum')
+print('ism')
